@@ -1,0 +1,9 @@
+{
+  "/api/states/route": "app/api/states/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/admin/upload/page": "app/admin/upload/page.js",
+  "/state/[state]/page": "app/state/[state]/page.js",
+  "/about/page": "app/about/page.js",
+  "/states/page": "app/states/page.js"
+}
